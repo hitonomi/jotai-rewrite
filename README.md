@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Jotai
 
+Just a challenge for myself to rewrite the basic functionality of a library that I have never used before but checked only the docs & examples
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
